@@ -1,0 +1,29 @@
+{
+  "name": "@wvanderdeijl/aoc2024",
+  "version": "1.0.0",
+  "description": "Advent of Code 2024",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wvanderdeijl/aoc2024.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wvanderdeijl/aoc2024/issues"
+  },
+  "homepage": "https://github.com/wvanderdeijl/aoc2024#readme",
+  "devDependencies": {
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  },
+  "dependencies": {
+    "@types/lodash": "^4.17.13",
+    "@types/node": "^22.10.1",
+    "lodash": "^4.17.21"
+  }
+}
